@@ -1,2 +1,2 @@
 # Dinesh
-Fucking project 
+alliance project 
